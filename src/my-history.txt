@@ -1,0 +1,75 @@
+
+É uma pena. It's a shame!
+
+Se perguntarem a minha história:
+  Me formei em 2010, em Oceanografia, e desde então tenho trabalhado com sistemas para soluções ambientais, meteorologia e Oceanografia.
+  I graduated in Oceanography in 2010, specialized in remote sensing and physical oceanography, and since then I have worked developing systems focused on engineering, meteorology and ocenography.
+
+  Iniciei na programação com Matlab, na faculdade. Aprendi a trabalhar com séries temporais, matrizes, análise de dados, análises estatísticas, e por último a criação de interfaces gráficas para utilização pelo usuário.
+
+  I started programming with the Matlab language, in college. When graduated, I was hired by a USA company with a branch here at Florianopolis to work with numerical modelling to coastal engineering projects. At this company we worked with matlab all day, and was where I learned to work and manipulate time seria, data matrix, data analysis, statistical analysis, and finally with graphical user interface.
+
+  Na sequência comecei a me interessar por Densenvolvimento Mobile, com Android. Desenvolvi alguns aplicativos de teste, sendo: 
+    - um app que analisava o som falado pelo usuário, aplicava a técnica de fourier para transformar o som em ondas e mostrava um gráfico em tempo real da intensidade do sinal versus frequencia; 
+    - um app para visualizar resultados de um sistema previsão de ondas (Era possível ver a previsão de Hs, TP, Dir para diversos locais do litoral brasileiro); 
+    - depois um app para receber notificações push enviadas por códigos de computador - eu sentia muita necessidade de ser informado sobre problemas que aconteciam nos códigos, e na época o telegram ainda não era difundido e não conhecia algo semelhante ao telegram
+    - e por último, criei um app para a empresa que trabalho hoje, e que é comercializado para nossos clientes. O objetivo do app é registrar leituras, fotos e comentários de instrumentos de auscultação em barragens de terra e de concreto
+
+  Em paralelo ao desenvolvimento mobile, em 2014 comecei a me interessar por desenvolvimento web. Eu e meus amigos criar alguns projetos pessoais e sentiamos a necessidade de visualizar os dados e até criar um site profissional para comercializar os produtos. Nessa fase aprendi a ser fullstack, trabalhar com banco de dados (mysql e postgres), backend com php, e frontend (html,css e jquery).
+
+  Em 2017 comecei a trabalhar com AngularJS e criei a plataforma concentradora de conteudos e dados dos clientes da empresa onde trabalho hoje. É um sistema modular, com sidebar lateral, toolbar no topo de cada módulo, e roteamento de módulos. O sistema atualmente possui mais de 30 módulos, com ferramentas focadas em monitoramento em tempo real de dados telemétricos, visualização de previsão hidrológica para usinas geradoras de energia, e ferramentas de engenharia para visualizar e analisar dados de barragens, além de geração automática de relatórios e visualização de documentos.
+
+  Todas as configurações e projetos que irei citar a seguir foram realizadas e são mantidas por mim, tendo experiência tanto de configuração como de manutenção.
+
+  Começamos trabalhando com um provedor compartilhado (Hostgator), depois migramos para Linode, e recentemente migramos para AWS. Trabalhamos com bitbucket, jenkins para CI/CD, projetos containerizados com docker, slack como sistema de notificação de CI/CD, instancias EC2 com volumes criptografados, WAF aplicado sobre ALB, sistema de autenticação de 2 fatores (auth0). Atualmente estamos planejando realizar outra migração para a cloud da Oracle, por ser 70% mais barata que a AWS.
+
+  O setor de tecnologia da empresa que trabalho foi iniciado por mim em abril 2017, partime. A primeira venda para cliente real aconteceu em dezembro do mesmo ano, com a implantação finalizada em mar/2018. Atualmente temos faturamento de U$50k/mês, com 15 clientes, mas de 200 estruturas monitoradas, e mais de 100 usuários ativos diariamente.
+
+  Este setor possui 3 grandes áreas: Frontend, Backend, e Hidrologia. Temos 3 Heads, sendo um para cada grande área, e 1 gerente. A comunicação é realizada em eu e cada head de area, e este divide e organiza as demandas com sua equipe. Backend tem 3, frontend tem 6 (incluindo testes e ui/ux), hidrologia tem 7 pessoas.
+
+  Sobre backend: Comecei a desenvolver em paralelo o sistema web, o aplicativo mobile,e o sistema de previsão. Na época o backend foi realizado por mim em php puro (sem framework). Logo depois passamos a utilizar o framework Symfony do PHP. Atualmente estamos com 2 projetos de backend, esse em php (symfony) que possui a maioria dos endpoints, e um novo em Python/Django, onde os novos endpoints são criados (o motivo foi a falta de profissional disponível para trabalhar com php). Ambos projetos funcionam com ORM e modelo de tabelas. Recentemente finalizamos um projeto de monitoramento de uso da api (api-track-activity), semelhante a sistemas como New Relic, porém monitorando variáveis específicas para alcançar nossos KPIs.
+
+  Sobre o sistema de previsão: desenvolvi o modelo hidrológico atualmente utilizado em Matlab (motivo -  muitos dados e análises de matrizes) e os códigos de assimilação. POssuimos códigos que ficam assimilando a cada 15 minutos novos dados observados de estações telemétricas, e codigos com periodicidade de 30min a 24h que assimilam dados de chuva observados por satélite (GPM/NASA) e radar de superfície, e saídas de modelos meteorológicos (atualmente assimilamos GFS, WRF, CFS, ECMWF)
+
+  SObre frontend: Ano passado iniciamos a migração do projeto de frontend de angularjs para reactjs, e estamos trabalhando nisso atualmente. Porém o projeto em react ainda não está em produção.
+
+  Sobre banco de dados: Nosso banco de dados é postgres. Trabalhamos também com algumas functions. Temos um banco de dados para a aplicação (usuarios, clientes, propriedades gerais), um banco para cada produto diferente (spehc, resop, dams), e um banco para api-track-activity. Esta estratégia foi adotada para facilitar a manutenção dos bancos de dados.
+
+  No quesito time, atualmente trabalhamos com Roadmap tecnológicos, com novas funcionalidades sendo desenvolvidas ao logo de todo o ano, com milestones trimestrais. Desenvolvi a politica de monitoramento por KPIs e OKRs, além de relatório mensal sobre o que aconteceu em todas as atividades realizadas pelo setor
+
+Sobre minhas especializações:
+  - Fiz engenharia de software, aprendendo sobre a teoria de gerenciamento de times de desenvolvimento, principais protocolos e metodologias adotodas na área. A maior aplicação dos conteúdos aprendidos aqui foram na área de gerenciamento de equipe.
+  - I'm post graduated in Software Engineering, learning about software team management theory, main protocols and agile metodologies. The main aplication of the content learned in this course were agile metodologies and team management.
+  - Cybersecurity e Ethical Hacking: Esta me identifiquei muito, aprendendo conteudos que nunca tinha tido contato, mas algo totalmente focado na minha atividade. As disciplinas que acho relevante citar e que deram um up na minha carreira - Redes de computadores, instruções de processador e memória, todas as fases de um pentest, analise de vulnerabilidades de sistemas web e local, engenharia reversa de software, eletrônica, principais formas de ataque web, CVSS, protocolos de segurança como OWASP, PCI-DSS, administração de sistemas linux, perícia digital, etc.
+  - I've identified a lot with this course, learning content that I had never had contact with, but the content is well related with my skills and professional activities. The disciplines that I think that is relevant to mentionate are - Computers Network, memory and processor instructions, all phases of a pentest, vulnerability assessment of web systems and remote machine, software reverse engineering, eletronic and components, web attack main types, vulnerabilities and CVSS, security protocols like OWASP e PCI-DSS, linux system administration, computational forensic analysis, etc.
+  - fiz um curso de AWS Cloud, aprendendo sobre RDS, ELB, Zonas de distribuição, grupos de segurança, e escalabilidade com o EC2 Auto Scaling (threshold para subir novas instâncias)
+  - I took a course of AWS Cloud, where I learned about RDS, ELB, Zone Availability, Security groups, and horizontal scaling with EC2 Auto Scaling (with threshold to fire up/start new instances)
+
+
+  Tech Stack:
+    My tech stack today is django with django rest framework on backend, and reactjs on frontend. I started recently with react and where I have more expecience is with AngularJS, and javascript. I use bitbucket to control code. If I have to deploy a starter system low cost, I will deploy dockerized on Linode, with apache web server, postgres database, and Jenkins to CI/CD. If I have to deploy a mature system, I will deploy on oracle, using instances, ELB, Buckets and WAF.
+
+    If I have to execute an vulnerability assessment, I can use Vega and Nessus.
+
+    If I have to analyse data, I will use python language with numpy and pandas libraries. If the data was rest on database, sql functions can be created.
+
+    If I have to plot data in graph on web page, I will use Highcharts library.
+    If I have to plot points, lines and polygons in a map on web page, I will use Leaflet library. I have a little experience with geoserver and postgis extension to storage shapefile data file.
+
+    My main concern as software developer is system performance, followed by system security. Every logic I create is focused on performance, always thinking about physical resources that are being used (unnecessary api calls - using server resource like database, memory and processor usage; and browser memory usage). With this guaranteed, we can manage the server, database, and web application to avoid vulnerabilities.
+
+
+Hi,
+Thank your for inviting me to this meet.
+I'm preparing and thinking about this meet and I have 3 questions. Can you help me with this?
+
+So, the first question:
+  I would like to know what is the average salary offered by companies to jobs in Turing with experience grade of entry, intermediate and senior. Do you have this information?
+
+Ok, the second question is:
+  I would like to know what English expecience is required by companies? The English experience is evaluated during the interview or exists a test to this?
+
+And to finish, the third question:
+  I would like to know how works the Turing recruitment process and recruitment phases? How many interviews I will need to participate?
+
+The Palmeiras competes on FIFA Worldwide League that has ocurred on last January in Catar. He stay in second position. Was vice champion
