@@ -44,6 +44,8 @@ Project: [SIG²A](https://siga.fractaleng.com.br)
 
 **Web system migration from Linode cloud to AWS cloud.**
 
+###
+##### _Project Overview_
 A customer and your TI team have analyzed the system and has suggests several improvements, either cybersecurity as infrastruct. After our analyse, we decide that the best choice was to migrate to AWS cloud and setup AWS services to specific purposes.
 
 We worked is six different areas:
@@ -55,6 +57,12 @@ We worked is six different areas:
 - Business Continuity and Disaster Recovery Plan to minimize downtime in case of failure.
 
 Currently this project has been completed and is in production. All services are working properly.
+
+##### _Learning Outcomes_
+From this project, I learn a such AWS services features and how it works. On the technical side, about AWS services, I learn about costs and how optimize, setup of security groups rules, how to encrypt existing EBS volumes properly, ALB and WAF setup, features and rules, Buckets and users security.
+I also strengthened my skills involving clouding services and application, encouraging me to migrate another applications or to start a new project with a serverless approach.
+
+Regarding project management, I also learn how to think about and make right choices to avoid that your project stay sticked to a specific cloud forever.
 
 <div align="center">
   <img alt="infrastructure" src="./public/images/infrastructure/infra.png" width="500px">
@@ -68,7 +76,8 @@ Project: [DAMS](https://fractaleng.com.br/solucoes/dams/)
 Google Play: https://play.google.com/store/apps/details?id=com.fractalengenharia.DamsApp
 
 **Dam safety Android app for manually monitoring auscultation instruments in hydropower and mining dams.**
-
+###
+##### _Project Overview_
 Is a engineering project created to monitoring dams auscultation instruments and perform dam structures visual inspection. The app is able to execute a complete auscultation cycle, registering different information about instruments. The main features are: instrument identification by QR Code, reader person name, instrument readings with confirmation, the app works offline saving data in internal smartphone/tablet database (SQLite), take site/field photos, observations, occurrences and instrument maintenance request registers.
 The same app is able to execute 'Visual Inspection' of dams, based on form created on SIG²A. The engineer can register structures conditions in site, take photos, and sent information to SIG²A. After auscultation or visual inspection service is completed, all data are sent to web platform (SIG²A) and several PDF reports are generated.
 
@@ -79,18 +88,40 @@ This project is in production. Currently we have contract with 6 great energy ge
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: space-around;">
   <div style="margin: 10px; padding: 20px;">
-    <img alt="infrastructure" src="./public/images/infrastructure/infra.png" width="150px">
+    <img alt="infrastructure" src="./public/images/dams/dams_01.png" height="200px">
   </div>
   <div style="margin: 10px; padding: 20px;">
-    <img alt="infrastructure" src="./public/images/infrastructure/infra.png" width="150px">
+    <img alt="infrastructure" src="./public/images/dams/dams_02.png" height="200px">
+  </div> 
+  <div style="margin: 10px; padding: 20px;">
+    <img alt="infrastructure" src="./public/images/dams/dams_03.png" height="200px">
   </div>
   <div style="margin: 10px; padding: 20px;">
-    <img alt="infrastructure" src="./public/images/infrastructure/infra.png" width="150px">
+    <img alt="infrastructure" src="./public/images/dams/dams_04.png" height="200px">
   </div>
   <div style="margin: 10px; padding: 20px;">
-    <img alt="infrastructure" src="./public/images/infrastructure/infra.png" width="150px">
+    <img alt="infrastructure" src="./public/images/dams/dams_05.png" height="200px">
   </div>
   <div style="margin: 10px; padding: 20px;">
-    <img alt="infrastructure" src="./public/images/infrastructure/infra.png" width="150px">
+    <img alt="infrastructure" src="./public/images/dams/dams_06.png" height="200px">
   </div>
+  <div style="margin: 10px; padding: 20px;">
+    <img alt="infrastructure" src="./public/images/dams/dams_07.png" height="200px">
+  </div>
+  <div style="margin: 10px; padding: 20px;">
+    <img alt="infrastructure" src="./public/images/dams/dams_15.png" height="200px">
+  </div>
+  <div style="margin: 10px; padding: 20px;">
+    <img alt="infrastructure" src="./public/images/dams/dams_16.png" height="200px">
+  </div>
+  <div style="margin: 10px; padding: 20px;">
+    <img alt="infrastructure" src="./public/images/dams/dams_18.png" height="200px">
+  </div>
+  <div style="margin: 10px; padding: 20px;">
+    <img alt="infrastructure" src="./public/images/dams/dams_19.png" height="200px">
+  </div>
+  <div style="margin: 10px; padding: 20px;">
+    <img alt="infrastructure" src="./public/images/dams/dams_20.png" height="200px">
+  </div>
+  
 </div>
