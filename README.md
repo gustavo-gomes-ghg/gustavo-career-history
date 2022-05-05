@@ -32,14 +32,19 @@ I'm currently looking for a Data Engineer or Web Developer position, where I thi
 
 # Work History
 
-### Technology and Systems Manager
-June-2019 - Present
-Technology and System Manager, working with an amazing team developing web and mobile system for Dam Safety and Hydrological Monitoring and Forecasting, leading 17 people team, creating processes, and so on.
+#### DBA maintenance in huge database
+_Fractal Engenharia -> April-2022 - Present_
 
-#### AWS Migration - Recent Project
-https://siga.fractaleng.com.br
+...
 
-Web system migration from Linode cloud to AWS cloud. A customer and your TI team have analyzed the system and has suggests several improvements, either cybersecurity as infrastruct. After our analyse, we decide that the best choice was to migrate to AWS cloud and setup AWS services to specific purposes.
+#### Cybersecurity motivation - Web system migration to AWS Cloud
+_Fractal Engenharia -> Sep-2021 - Mar-2022_
+
+Project: [SIG²A](https://siga.fractaleng.com.br)
+
+**Web system migration from Linode cloud to AWS cloud.**
+
+A customer and your TI team have analyzed the system and has suggests several improvements, either cybersecurity as infrastruct. After our analyse, we decide that the best choice was to migrate to AWS cloud and setup AWS services to specific purposes.
 
 We worked is six different areas:
 - User authentication and data security improvements. The solution was integrate an authentication system that comprised: multi-factor authentication, password policy, password change after perior, account lockout after attempts;
@@ -52,5 +57,40 @@ We worked is six different areas:
 Currently this project has been completed and is in production. All services are working properly.
 
 <div align="center">
-  <img src="./public/images/infrastructure/infra.png" width="500px">
+  <img alt="infrastructure" src="./public/images/infrastructure/infra.png" width="500px">
+</div>
+
+#
+#### DAMS App
+_Fractal Engenharia -> April-2017 - Present_
+
+Project: [DAMS](https://fractaleng.com.br/solucoes/dams/)
+Google Play: https://play.google.com/store/apps/details?id=com.fractalengenharia.DamsApp
+
+**Dam safety Android app for manually monitoring auscultation instruments in hydropower and mining dams.**
+
+Is a engineering project created to monitoring dams auscultation instruments and perform dam structures visual inspection. The app is able to execute a complete auscultation cycle, registering different information about instruments. The main features are: instrument identification by QR Code, reader person name, instrument readings with confirmation, the app works offline saving data in internal smartphone/tablet database (SQLite), take site/field photos, observations, occurrences and instrument maintenance request registers.
+The same app is able to execute 'Visual Inspection' of dams, based on form created on SIG²A. The engineer can register structures conditions in site, take photos, and sent information to SIG²A. After auscultation or visual inspection service is completed, all data are sent to web platform (SIG²A) and several PDF reports are generated.
+
+This project was built using Android Studio platform and Java language. The user data is stored using SQLite database. API endpoints from PHP + Symfony Framework.
+
+This project is in production. Currently we have contract with 6 great energy generator groups, monitoring 13 hydro eletric dams, including large, medium and small dimensions dams. Every month more than 1660 auscultation instruments are read at least one time.
+
+
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: space-around;">
+  <div style="margin: 10px; padding: 20px;">
+    <img alt="infrastructure" src="./public/images/infrastructure/infra.png" width="150px">
+  </div>
+  <div style="margin: 10px; padding: 20px;">
+    <img alt="infrastructure" src="./public/images/infrastructure/infra.png" width="150px">
+  </div>
+  <div style="margin: 10px; padding: 20px;">
+    <img alt="infrastructure" src="./public/images/infrastructure/infra.png" width="150px">
+  </div>
+  <div style="margin: 10px; padding: 20px;">
+    <img alt="infrastructure" src="./public/images/infrastructure/infra.png" width="150px">
+  </div>
+  <div style="margin: 10px; padding: 20px;">
+    <img alt="infrastructure" src="./public/images/infrastructure/infra.png" width="150px">
+  </div>
 </div>
