@@ -86,43 +86,8 @@ This project was built using Android Studio platform and Java language. The user
 
 This project is in production. Currently we have contract with 6 great energy generator groups, monitoring 13 hydro eletric dams, including large, medium and small dimensions dams. Every month more than 1660 auscultation instruments are read at least one time.
 
-
-<div style="display: flex; flex-wrap: wrap; justify-content: space-around;">
-  <div style="margin: 1px; padding: 2px;">
-    <img alt="infrastructure" src="./public/images/dams/dams_01.png" height="200px">
-  </div>
-  <div style="margin: 10px; padding: 20px;">
-    <img alt="infrastructure" src="./public/images/dams/dams_02.png" height="200px">
-  </div> 
-  <div style="margin: 10px; padding: 20px;">
-    <img alt="infrastructure" src="./public/images/dams/dams_03.png" height="200px">
-  </div>
-  <div style="margin: 10px; padding: 20px;">
-    <img alt="infrastructure" src="./public/images/dams/dams_04.png" height="200px">
-  </div>
-  <div style="margin: 10px; padding: 20px;">
-    <img alt="infrastructure" src="./public/images/dams/dams_05.png" height="200px">
-  </div>
-  <div style="margin: 10px; padding: 20px;">
-    <img alt="infrastructure" src="./public/images/dams/dams_06.png" height="200px">
-  </div>
-  <div style="margin: 10px; padding: 20px;">
-    <img alt="infrastructure" src="./public/images/dams/dams_07.png" height="200px">
-  </div>
-  <div style="margin: 10px; padding: 20px;">
-    <img alt="infrastructure" src="./public/images/dams/dams_15.png" height="200px">
-  </div>
-  <div style="margin: 10px; padding: 20px;">
-    <img alt="infrastructure" src="./public/images/dams/dams_16.png" height="200px">
-  </div>
-  <div style="margin: 10px; padding: 20px;">
-    <img alt="infrastructure" src="./public/images/dams/dams_18.png" height="200px">
-  </div>
-  <div style="margin: 10px; padding: 20px;">
-    <img alt="infrastructure" src="./public/images/dams/dams_19.png" height="200px">
-  </div>
-  <div style="margin: 10px; padding: 20px;">
-    <img alt="infrastructure" src="./public/images/dams/dams_20.png" height="200px">
-  </div>
-  
-</div>
+DAMS  |  App  |  screen  |  shots
+:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
+![](./public/images/dams/dams_01.png) | ![](./public/images/dams/dams_02.png) | ![](./public/images/dams/dams_03.png) | ![](./public/images/dams/dams_04.png)
+![](./public/images/dams/dams_05.png) | ![](./public/images/dams/dams_06.png) | ![](./public/images/dams/dams_07.png) | ![](./public/images/dams/dams_15.png)
+![](./public/images/dams/dams_16.png) | ![](./public/images/dams/dams_18.png) | ![](./public/images/dams/dams_19.png) | ![](./public/images/dams/dams_20.png)
