@@ -30,14 +30,14 @@ I'm currently looking for a Data Engineer or Web Developer position, where I thi
 - AWS
 - AWS Lambda
 
-# Work History
+## Work History
 
-#### DBA maintenance in huge database
+### DBA maintenance in huge database
 _Fractal Engenharia -> April-2022 - Present_
 
 ...
 
-#### Cybersecurity motivation - Web system migration to AWS Cloud
+### Cybersecurity motivation - Web system migration to AWS Cloud
 _Fractal Engenharia -> Sep-2021 - Mar-2022_
 
 Project: [SIG²A](https://siga.fractaleng.com.br)
@@ -69,10 +69,11 @@ Regarding project management, I also learn how to think about and make right cho
 </div>
 
 #
-#### DAMS App
+### DAMS App
 _Fractal Engenharia -> April-2017 - Present_
 
-Project: [DAMS](https://fractaleng.com.br/solucoes/dams/)
+Project: [DAMS](https://fractaleng.com.br/solucoes/dams/) 
+
 Google Play: https://play.google.com/store/apps/details?id=com.fractalengenharia.DamsApp
 
 **Dam safety Android app for manually monitoring auscultation instruments in hydropower and mining dams.**
@@ -86,8 +87,8 @@ This project was built using Android Studio platform and Java language. The user
 This project is in production. Currently we have contract with 6 great energy generator groups, monitoring 13 hydro eletric dams, including large, medium and small dimensions dams. Every month more than 1660 auscultation instruments are read at least one time.
 
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: space-around;">
-  <div style="margin: 10px; padding: 20px;">
+<div style="display: flex; flex-wrap: wrap; justify-content: space-around;">
+  <div style="margin: 1px; padding: 2px;">
     <img alt="infrastructure" src="./public/images/dams/dams_01.png" height="200px">
   </div>
   <div style="margin: 10px; padding: 20px;">
