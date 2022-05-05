@@ -19,6 +19,11 @@ I pass my last seven years working on a hydrological complex project with four c
 
 I'm currently looking for a Data Engineer or Web Developer position, where I think I'll have my best performance.
 
+## English Level
+Currently, I am studying on Open English school. It has a course with 8 level. Actually I passed level 4, and I'm studying level 5 to get B1 certificate.
+
+2022-May: CEFR A2
+
 ## Recent Technical Avaliation
 
 2022-Abr: Technical test's passed successful on Turing platform:
@@ -59,10 +64,10 @@ We worked is six different areas:
 Currently this project has been completed and is in production. All services are working properly.
 
 ##### _Learning Outcomes_
-From this project, I learn a such AWS services features and how it works. On the technical side, about AWS services, I learn about costs and how optimize, setup of security groups rules, how to encrypt existing EBS volumes properly, ALB and WAF setup, features and rules, Buckets and users security.
+From this project, I learned a such AWS services features and how it works. On the technical side, about AWS services, I learned about costs and how optimize, setup of security groups rules, how to encrypt existing EBS volumes properly, ALB and WAF setup, features and rules, Buckets and users security.
 I also strengthened my skills involving clouding services and application, encouraging me to migrate another applications or to start a new project with a serverless approach.
 
-Regarding project management, I also learn how to think about and make right choices to avoid that your project stay sticked to a specific cloud forever.
+Regarding project management, I also learned how to think about and make right choices to avoid that your project stay sticked to a specific cloud forever.
 
 <div align="center">
   <img alt="infrastructure" src="./public/images/infrastructure/infra.png" width="500px">
@@ -86,8 +91,51 @@ This project was built using Android Studio platform and Java language. The user
 
 This project is in production. Currently we have contract with 6 great energy generator groups, monitoring 13 hydro eletric dams, including large, medium and small dimensions dams. Every month more than 1660 auscultation instruments are read at least one time.
 
+##### _Learning Outcomes_
+....
+
 DAMS  |  App  |  screen  |  shots
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
 ![](./public/images/dams/dams_01.png) | ![](./public/images/dams/dams_02.png) | ![](./public/images/dams/dams_03.png) | ![](./public/images/dams/dams_04.png)
 ![](./public/images/dams/dams_05.png) | ![](./public/images/dams/dams_06.png) | ![](./public/images/dams/dams_07.png) | ![](./public/images/dams/dams_15.png)
 ![](./public/images/dams/dams_16.png) | ![](./public/images/dams/dams_18.png) | ![](./public/images/dams/dams_19.png) | ![](./public/images/dams/dams_20.png)
+
+
+#
+### AngularJS web platform
+_Fractal Engenharia -> April-2017 - Present_
+
+Project: [SIG²A](https://www.fractaleng.com.br/SIGA/user_guide/user/) 
+
+
+**Modular Single Page application with tools for dam safety, hydrology monitoring and hydrology forecast system.**
+Written in AngularJS, and currently in migration to ReactJS with Single SPA library. Backend with PHP Symfony Framework, and Python Django Framework.
+
+###
+##### _Project Overview_
+SIG²A is a complete web solution to customers visualizing your data, make analysis and to register information about dam security, hydrological river monitoring and river flow predictions to hydroeletric power stations. SIG²A is integrated with DAMS App, SPEHC and RESOP products.
+
+The project is a modular single page application, based on API restful, written in AngularJS and actually in migration to ReactJS with Single-SPA library. Backend is provided by two different projects, as PHP + Symfony Framework, and Python + Django Framework.
+
+Hosted on AWS, has Auth0 authentication service and Business Continuity and Disaster Recovery Plan available.
+
+The project architecture was idealized and developed by me. Currently the platform has 33 modules and I can maintain all them, either JavaScript logic or CSS style. Each module can be considered a different project because its business logic is in Frontend side, written in JavaScript. The most advanced tools comprising numerical calculations and show instruments time series data on graph and spatial information on maps.
+
+SIG²A was built with a version control guideline documentation and every new pull request made, the developer who work on it need to add version description and versioning number.
+
+#### _Learning outcomes_
+From this project, and because is a long project, I learned a lot of things. On technical side, I learned how to work properly with a single page application project, best pratices of web programming, javascript and ES6 new features, AngularJS tricks and how to solve problems, how to work with Material Desing library and to explore its html/css features properly, and so on. Because AngularJS large files characteristic, I needed to integrate a lazy loading library to charge static files only when necessary to mantain the best user experience. I also streghtened my skills with git versioning, deploy pipelines and dev/stage/production environments.
+Regarding project management, I learned how to work with developers who not want to work with a specific framework (AngularJS is deprecated since 2018). I learned also how to break down tasks within a module into smaller incremental steps. 
+
+SIG²A  |  Web platform
+:-------------------------:|:-------------------------:
+![](./public/images/siga_web_platform/siga_01.png) | ![](./public/images/siga_web_platform/siga_01.png)
+![](./public/images/siga_web_platform/siga_03.png) | ![](./public/images/siga_web_platform/siga_04.png)
+![](./public/images/siga_web_platform/siga_05.png) | ![](./public/images/siga_web_platform/siga_06.png)
+![](./public/images/siga_web_platform/siga_07.png) | ![](./public/images/siga_web_platform/siga_08.png)
+![](./public/images/siga_web_platform/siga_09.png) | ![](./public/images/siga_web_platform/siga_10.png)
+![](./public/images/siga_web_platform/siga_11.png) | ![](./public/images/siga_web_platform/siga_12.png)
+![](./public/images/siga_web_platform/siga_13.png) | ![](./public/images/siga_web_platform/siga_14.png)
+![](./public/images/siga_web_platform/siga_15.png) | ![](./public/images/siga_web_platform/siga_16.png)
+![](./public/images/siga_web_platform/siga_17.png) | ![](./public/images/siga_web_platform/siga_18.png)
+![](./public/images/siga_web_platform/siga_19.png) | ![](./public/images/siga_web_platform/siga_20.png)
