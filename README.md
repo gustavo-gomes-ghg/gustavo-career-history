@@ -44,12 +44,26 @@ I don't have attention deficit, I know how to work in a team, I try to understan
 - Positives: good character, good relationship with the team, ability to simplify complex problems, agile and practical.
 - Negatives: I try to quickly solve a problem and being quick may not be the best solution, impatient, difficulty not showing displeasure.
 
+## Education
+- _Cybersecurity and Ethical Hacking (Graduate course), UNICIV_ -> Mar 2021 - Feb 2022, Remote
+#####
+- _Software Engineering (Graduate course), UNYLEYA_ -> Jul 2020 - Jun 2021, Remote
+#####
+- _Oceanography (Undergraduate course), UNIVALI_ -> Jan 2005 - Jun 2010, Itajaí- Santa Catarina
+
+#
+
+
 ## Work History
 
 ### DBA maintenance in huge database
 _Fractal Engenharia -> April-2022 - Present_
 
-...
+###
+##### _Project Overview_
+Under construction ...
+
+##### _Learning Outcomes_
 
 ### Cybersecurity motivation - Web system migration to AWS Cloud
 _Fractal Engenharia -> Sep-2021 - Mar-2022_
@@ -110,6 +124,16 @@ DAMS  |  App  |  screen  |  shots
 ![](./public/images/dams/dams_05.png) | ![](./public/images/dams/dams_06.png) | ![](./public/images/dams/dams_07.png) | ![](./public/images/dams/dams_15.png)
 ![](./public/images/dams/dams_16.png) | ![](./public/images/dams/dams_18.png) | ![](./public/images/dams/dams_19.png) | ![](./public/images/dams/dams_20.png)
 
+#
+### DAMS Auscultation Campaign Validation Report - Python
+_Fractal Engenharia -> Feb-2019 - Apr-2019_
+
+###
+##### _Project Overview_
+Under construction ...
+
+##### _Learning outcomes_
+
 
 #
 ### AngularJS web platform
@@ -133,7 +157,7 @@ The project architecture was idealized and developed by me. Currently the platfo
 
 SIG²A was built with a version control guideline documentation and every new pull request made, the developer who work on it need to add version description and versioning number.
 
-#### _Learning outcomes_
+##### _Learning outcomes_
 From this project, and because is a long project, I learned a lot of things. On technical side, I learned how to work properly with a single page application project, best pratices of web programming, javascript and ES6 new features, AngularJS tricks and how to solve problems, how to work with Material Desing library and to explore its html/css features properly, and so on. Because AngularJS large files characteristic, I needed to integrate a lazy loading library to charge static files only when necessary to mantain the best user experience. I also streghtened my skills with git versioning, deploy pipelines and dev/stage/production environments.
 Regarding project management, I learned how to work with developers who not want to work with a specific framework (AngularJS is deprecated since 2018). I learned also how to break down tasks within a module into smaller incremental steps. 
 
@@ -166,3 +190,56 @@ Written in Matlab and Python. Uses PostgreSQL database engine.
 
 ###
 ##### _Project Overview_
+Under construction ...
+
+##### _Learning outcomes_
+
+#
+### Weather forecast assimilation modules
+_Fractal Engenharia -> May-2015 - Present_
+
+###
+##### _Project Overview_
+Under construction ...
+
+##### _Learning outcomes_
+
+#
+### Patada de Urso - Land page (Wordpress)
+_GHG Tecnologia -> Jan-2018 - Mai-2018_
+
+###
+##### _Project Overview_
+Under construction ...
+
+##### _Learning outcomes_
+
+#
+### Patada de Urso - AngularJS web platform
+_GHG Tecnologia -> Jan-2018 - Mai-2018_
+
+###
+##### _Project Overview_
+Under construction ...
+
+##### _Learning outcomes_
+
+#
+### MetaTrader 5 - Software Developer
+_GHG Tecnologia -> 2017 - Dez-2017_
+
+###
+##### _Project Overview_
+Under construction ...
+
+##### _Learning outcomes_
+
+#
+### Oceanographer
+_Chigago Bridge & Iron -> 2012-2018_
+
+###
+##### _Project Overview_
+Under construction ...
+
+##### _Learning outcomes_
