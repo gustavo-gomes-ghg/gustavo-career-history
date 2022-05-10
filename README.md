@@ -9,9 +9,9 @@
 
 
 ## Summary
-Software Developer and Oceanographer. Currently I work as technology and systems manager, leading a team of 17 people and developing systems to hydrological and mateorological applications. 
+Software Developer and Oceanographer. Currently I work as technology and systems manager, leading a team of 17 people and developing systems to hydrological and meteorological applications. 
 
-I have experience with web programming, mobile development, Linux administration, relational databases, data analysis, statistics, time series manipulation, matrix and specialized data manipulation, and geoprocessing.
+I have 11 years of experience as computer developer. I have experience with web programming, mobile development, Linux administration, relational databases, data analysis, statistics, time series manipulation, matrix and specialized data manipulation, and geoprocessing.
 
 Good communication, teamwork, problem solving instinct, proactive and determined. My biggest motivation is to encounter complex challenges. Those in which it is necessary to understand the process and know the variables to solve the problem. Nothing is impossible, because for everything there is a way to do it. 
 
@@ -20,13 +20,13 @@ I pass my last seven years working on a hydrological complex project with four c
 I'm currently looking for a Data Engineer or Web Developer position, where I think I'll have my best performance.
 
 ## English Level
-Currently, I am studying on Open English school. It has a course with 8 level. Actually I passed level 4, and I'm studying level 5 to get B1 certificate.
+Currently, I am studying on Open English school. It has a course with 8 English levels. Actually I passed level 4, and I'm studying level 5 to get B1 certificate.
 
 2022-May: CEFR A2
 
 ## Recent Technical Avaliation
 
-2022-Abr: Technical test's passed successful on Turing platform:
+2022-Abr: Approved on Technical test's on Turing platform:
 - Javascript
 - Python
 - Matlab
@@ -34,6 +34,15 @@ Currently, I am studying on Open English school. It has a course with 8 level. A
 - Docker
 - AWS
 - AWS Lambda
+
+## Soft skills
+I don't have attention deficit, I know how to work in a team, I try to understand the problem I'm trying to solve, easy to learn new tools and new programming languages, fast learning curve, quick thinking, while in a meeting I quickly design the workflow and process being discussed (this makes it much easier for other team members to understand), ease of having an idea to solve a problem, I don't waste my time and other colleagues' time talking more than necessary, if I don't have anything to say I don't interrupt conversations, sincerity(if I don't know how to do something I say I don't know).
+
+- I organize my time using personal calendar (Teams, Outlook, Google).
+
+## Positives/Negatives
+- Positives: good character, good relationship with the team, ability to simplify complex problems, agile and practical.
+- Negatives: I try to quickly solve a problem and being quick may not be the best solution, impatient, difficulty not showing displeasure.
 
 ## Work History
 
@@ -92,7 +101,8 @@ This project was built using Android Studio platform and Java language. The user
 This project is in production. Currently we have contract with 6 great energy generator groups, monitoring 13 hydro eletric dams, including large, medium and small dimensions dams. Every month more than 1660 auscultation instruments are read at least one time.
 
 ##### _Learning Outcomes_
-....
+From this project I learned to work with Android SDK advanced properties, like ReciclerView, BaseAdapter, SurfaceHolder, SurfaceView, Fragments, sharedPreferences, SQLite database to internal storage, parsing GPS coordinates, listeners, Volley library to Rest API calls, Gradle packages manager, Android code security and key store, Google Play app publish on alfa, beta and production channels, Google Play account management when Google had required code adjusts and credential's do access app and keep it on Google Play, app optimization and code tests in different devices with different screen sizes, modify and evolve code to works on newer Android versions (this app was launched when last Android version was 5 - Lollipop. Actually was on 11 - Red Velvet Cake), among others learnings.
+It is also worth mentioning about learnings in project files organization, both logic as layouts (for different screen sizes), and also about code internalization with tags for different languages.
 
 DAMS  |  App  |  screen  |  shots
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
@@ -139,3 +149,20 @@ SIG²A  |  Web platform
 ![](./public/images/siga_web_platform/siga_15.png) | ![](./public/images/siga_web_platform/siga_16.png)
 ![](./public/images/siga_web_platform/siga_17.png) | ![](./public/images/siga_web_platform/siga_18.png)
 ![](./public/images/siga_web_platform/siga_19.png) | ![](./public/images/siga_web_platform/siga_20.png)
+
+
+Ver pagina desse baiano
+https://www.nathan-lam.com/projects/pi-cantact
+
+#
+### Rainfall-Runoff forecast system (SPEHC)
+_Fractal Engenharia -> May-2015 - Present_
+
+Project: [SPEHC](https://fractaleng.com.br/solucoes/sistema-de-previsao-de-eventos-hidrologicos-criticos/) 
+
+
+**Water resources management operational application. It predicts rivers flow based on how much it rained and how much it will rain in a watershed of interest. In 2021, a port to Python language was written.**
+Written in Matlab and Python. Uses PostgreSQL database engine.
+
+###
+##### _Project Overview_
