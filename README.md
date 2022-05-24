@@ -44,6 +44,14 @@ I don't have attention deficit, I know how to work in a team, I try to understan
 - Positives: good character, good relationship with the team, ability to simplify complex problems, agile and practical.
 - Negatives: I try to quickly solve a problem and being quick may not be the best solution, impatient, difficulty not showing displeasure.
 
+## Data Engineer vision
+Assuming that this company has no budget limit, it must have a data warehouse equipped with pipelines and distinct databases for hot, analysis and cold (lake) data.
+To populate these databases it might use API associated with stream notification system like Kafka, Kinesis or RabbitMq.
+To process this huge data quantity, different approaches might be used, like SQL queries for big data or reduces for real time analytics.
+To visualize the results, Tableau or PowerBI might be used.
+
+Considering budget limits, more conventional approaches might be used, like few databases, sql queries and python scripts to analyze, process and plot data on charts and graphs. A batch process might be created to feed a internal web page to display the results.
+
 ## Education
 - _Cybersecurity and Ethical Hacking (Graduate course), UNICIV_ -> Mar 2021 - Feb 2022, Remote
 #####
@@ -55,6 +63,33 @@ I don't have attention deficit, I know how to work in a team, I try to understan
 
 
 ## Work History
+
+#### Technology Manager
+_Fractal Engenharia, Florianópolis/SC/Brazil_
+_(On-site/Remote) -> Jun-2019 - Present_
+
+#### Web Developer
+_Fractal Engenharia, Florianópolis/SC/Brazil_
+_(On-site/Remote) -> Apr-2017 - Present_
+
+#### Android Developer
+_Fractal Engenharia, Florianópolis/SC/Brazil_
+_(On-site/Remote) -> Apr-2017 - Present_
+
+#### Oceanographer
+_Chigago Bridge & Iron, Florianópolis/SC/Brazil_
+_(On-site) -> 2012-2018_
+
+#### GIS Analyst
+_Caruso Jr, Florianópolis/SC/Brazil_
+_(On-site) -> 2011-2012_
+
+#### Support (Geoprocessing and Remote Sensing)
+_Universidade do Vale do Itajaí, Itajaí/SC/Brazil_
+_(On-site) -> 2011_
+
+#
+## Achievements
 
 ### DBA maintenance in huge database
 _Fractal Engenharia -> April-2022 - Present_
@@ -198,6 +233,8 @@ Under construction ...
 ### Weather forecast assimilation modules
 _Fractal Engenharia -> May-2015 - Present_
 
+**Development of the Telemetric Data Assimilation module from ANA Stations (National Water Agency) for the SPEHC system. Data assimilated to proprietary databases.**
+
 ###
 ##### _Project Overview_
 Under construction ...
@@ -205,7 +242,7 @@ Under construction ...
 ##### _Learning outcomes_
 
 #
-### Patada de Urso - Land page (Wordpress)
+### Patada de Urso - Landing page (Wordpress)
 _GHG Tecnologia -> Jan-2018 - Mai-2018_
 
 ###
@@ -228,18 +265,128 @@ Under construction ...
 ### MetaTrader 5 - Software Developer
 _GHG Tecnologia -> 2017 - Dez-2017_
 
+**Trader robot for daytrade operations in mini-index and mini-dollar contracts using Metatrader 5 tool.**
+
 ###
 ##### _Project Overview_
 Under construction ...
+
+##### _Learning outcomes_
+
+
+#
+### Notifymer
+_Personal project -> Jan 2017 - Feb 2017_
+
+###
+##### _Project Overview_
+App development for Android – Notifymer – Making programmer life easier (alpha version), available on Play Store. Receive Push notifications from any code/software on your smartphone. Before the Telegram channel it was very useful.
+Project link: https://play.google.com/store/apps/details?id=com.ghgtecnologia.notifymer
+
+##### _Learning outcomes_
+
+
+#
+### Port Feasibility Tool
+_Chigago Bridge & Iron -> Sep 2016 - Feb 2017_
+
+###
+##### _Project Overview_
+Creation of the “Port Operation Regime” tool. Simulation of the operation of ships in ports – Tool developed to find the maximum number of ships that a terminal can operate over a year, changing technical and mechanical characteristics of loaders/unloaders. Tool that uses current fields output from the Delft3D hydrodynamic model, based on a conceptual ship model, navigation channel design, vessel propulsion and maneuverability characteristics, configuration of the number of mooring berths, number of mooring areas and operating time of each berth, to compute the terminal operating fee. Application for ports and port terminals.
+Tool to be used in conjunction with 'Port Navigation Tool' and logistical studies, in order to study the feasibility of a port terminal, regarding the operation of ships and cargo handling.
+This tool was developed to study the feasibility of the port terminal in Mearim, MA.
+
+Requirements:
+- Delft3D hydrodynamic current field
+- Navigation channel
+- Navigation windows from 'Port navigation tool'
 
 ##### _Learning outcomes_
 
 #
-### Oceanographer
-_Chigago Bridge & Iron -> 2012-2018_
+### Port Navigation Tool
+_Chigago Bridge & Iron -> Apr 2014 - Dec 2014_
 
 ###
 ##### _Project Overview_
-Under construction ...
+Creation of “Port Navigation” tool. This tool uses current fields from the Delft3D hydrodynamic model, based on a conceptual ship model, navigation channel design, and vessel propulsion and maneuverability characteristics to find possible navigation windows during a given period of time. Application for ports and port terminals. 
 
 ##### _Learning outcomes_
+
+#
+### Low cost Tide Gauge
+_Personal project -> Sep 2015 - Dec 2016_
+
+###
+##### _Project Overview_
+Development of a low cost tide gauge (sea level measurement instrument). Android application development to manage the instrument via Bluetooth, enabling:
+- on/off;
+- receipt of measured data and processing/noise filters;
+- synchronization of consolidated data with api.
+
+
+##### _Learning outcomes_
+
+
+#
+### Wave Forecast Operational System 
+_Personal project -> Sep 2015 - Jun 2016_
+
+###
+##### _Project Overview_
+Development of an operational system for the execution/processing/upload and website to show WaveWatchIII wave forecast results for the Atlantic Ocean, nested with the shallow water wave prediction model SWAN for south and southeast coast of Brazil. Forecast data was then presented on a website. It is a system similar to Waves, SurfGuru, Broou, magicseaweed, surfline, etc.
+
+##### _Learning outcomes_
+
+#
+### Delft3D-Part Automations
+_Chigago Bridge & Iron -> Feb 2015 - Jun 2015_
+
+###
+##### _Project Overview_
+Numerical modeling of an oil spill for Santos Bay and adjacent oceanic region. Numerical model used (Delft3D PART module). Development of a tool for automating probabilistic oil simulations using the PART-Delft3D module. Prepared for Companhia Docas of the State of São Paulo (CODESP). 
+
+##### _Learning outcomes_
+
+#
+### Delft3D Morphological Analysis Package
+_Chigago Bridge & Iron -> Feb 2014 - Jul 2014_
+
+###
+##### _Project Overview_
+Creation of “Delft3D Morphological Analysis Package” tool for processing and analyzing morphological data from the Delft3D numerical model. Focus on sediment transport and analysis of beach environments with coastal works (beach nourishment, rigid structures, breakwater). Performs volume calculations and sediment transport rates for each run in Delft3D, allowing sensitivity tests and morphological calibration.
+
+
+##### _Learning outcomes_
+
+#
+### Wave Extreme Analysis Tool
+_Chigago Bridge & Iron -> Jan 2014 - Mai 2014_
+
+###
+##### _Project Overview_
+Creation of the “Extreme Wave Data Analysis” tool for processing and analyzing extreme wave data, using several statistical models to predict Hs and desired return period. Evaluation of historical series of Hs, Tp, Dir, magnitude and wind direction. Based on the history, the payback period is calculated for each selected variable according to different methodologies (USACE, GEV, Weibull, others). The code was built on a graphical interface making it easy for the user and allowing to obtain this type of information in seconds.
+
+##### _Learning outcomes_
+
+#
+### XBEACH GUI
+_Chigago Bridge & Iron -> Jul 2013 - Dec 2013_
+
+###
+##### _Project Overview_
+Creation of the “Xbeach GUI” graphical interface of the Xbeach Model (eXtreme Beach Behavior – Delft, Netherlands) to configure the input parameters of the numerical model. It was a graphical interface developed in Matlab during a project at CBI where we used the XBEACH model to simulate extreme event ripples. The motivation was created by the difficulty in understanding and configuring the model. From this, I created a GUI similar to the Delft3D GUI, where it is possible to modify the setup parameters and save the setup file according to the user's choices, besides being able to load a setup and the interface is updated. In addition, a module for viewing the grid and bathymetry of the model in plan was created, and a tool for calculating the shape of the beach in plan according to the parabolic model of Hsu.
+
+##### _Learning outcomes_
+
+#
+### Real-time AWAC
+_Chigago Bridge & Iron -> Jun 2013 - Ago 2013_
+
+###
+##### _Project Overview_
+Creation of software in a Matlab environment for reading and processing AWAC data (instrument deployed at the aqueous environments that measures waves and currents) in real time, from the Hydrodynamic Forcing Monitoring System in the Tubarão complex, Vitória/ES. The software received binary data through the serial port, converted it to hexadecimal, processed the information, displayed it on the screen and stored it in ASCII files. The connection cable was connected directly from the instrument to a connection box in a sheltered place where the processing was done.
+
+##### _Learning outcomes_
+
+
