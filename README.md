@@ -52,6 +52,9 @@ To visualize the results, Tableau or PowerBI might be used.
 
 Considering budget limits, more conventional approaches might be used, like few databases, sql queries and python scripts to analyze, process and plot data on charts and graphs. A batch process might be created to feed a internal web page to display the results.
 
+--
+I love work with data and statistics. Using these two properties, I can extract information from data that might be invisible at first glance. Furthermore, I know how computers work and how data might be transferred and transformed between sources, being able to create a full cycle data application pipeline, since sparse data to worth information.
+
 ## Education
 - _Cybersecurity and Ethical Hacking (Graduate course), UNICIV_ -> Mar 2021 - Feb 2022, Remote
 #####
